@@ -1,0 +1,5 @@
+2026-04-02 | started project at 6pm | narvin
+found edge case for str alphabets input 
+edge case on decimal rightnow
+
+2026-04-02 | log off | narvin
