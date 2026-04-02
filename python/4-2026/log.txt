@@ -9,4 +9,9 @@
 
 2026-04-01 | if/elif hackerank(hr) | solved | 1hrs | edge case solved | narvin.
 2026-04-01 | arithmetic hr | solved | 15min | edge case solved | narvin.
+2026-04-01 | loops hr | solved | 15min | edge case solved | narvin
+2026-04-01 | leap funcion hr | solved | 30min | edge case solved | narvin
+2026-04-01 | print funcion hr | solved | 15min | edge case solved | narvin
+
+
 
