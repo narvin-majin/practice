@@ -2,4 +2,12 @@
 found edge case for str alphabets input 
 edge case on decimal rightnow
 
-2026-04-02 | log off | narvin
+2026-04-02 | log off | 7:30pm | narvin
+
+
+2026-04-04 | log in | 6 pm | narvin
+added decimal and worked a bit 
+but % here is modulos not % later up date
+
+2026-04-04 | log off | 8:19 pm | narvin
+
