@@ -11,3 +11,6 @@ but % here is modulos not % later up date
 
 2026-04-04 | log off | 8:19 pm | narvin
 
+2026-04-05 | log in | 4:15 pm | narvin
+added parentheses and readme.md and polished a bit 
+2026-04-05 | log out | 6:11 pm | narvin
